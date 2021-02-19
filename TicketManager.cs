@@ -67,16 +67,5 @@ namespace TicketOOP
         {
             return _ticketFile.Contents.Contains(ticket);
         }
-
-        private void SampleCode()
-        {
-            string myString = "Ford";
-
-            List<string> stringList = new List<string>();
-            stringList.Add("Chevy");
-            stringList.Add("Pontiac");
-
-            var isInList = stringList.Contains(myString);
-        }
     }
 }

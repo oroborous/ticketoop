@@ -45,29 +45,3 @@ namespace TicketOOP.Models
         }
     }
 }
-
-
-
-//UNITTEST 1
-//{
-//    // arrange
-//    //    instantiate the class
-//    // act
-//    //    execute the method under test (eg. IsValidInput)
-//    //       pass in 'r'
-//    // assert
-//    //    validate that the expected output is correct
-//    //       expect true
-//}
-
-//UNITTEST 2
-//{
-//    // arrange
-//    //    instantiate the class
-//    // act
-//    //    execute the method under test (eg. IsValidInput)
-//    //       pass in 'x'
-//    // assert
-//    //    validate that the expected output is correct
-//    //       expect false
-//}

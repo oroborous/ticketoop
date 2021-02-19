@@ -11,9 +11,6 @@ namespace TicketOOP
             var menu = new Menu();
             var userRequest = menu.GetUserInput();
 
-            Ticket ticket = new Ticket() { Id = "6", Name="Joe" };
-            ticket.Equals(new Ticket() { Id="3", Name="Bob"});
-
             TicketManager ticketManager = new TicketManager();
             while (userRequest != 'Q')
             {

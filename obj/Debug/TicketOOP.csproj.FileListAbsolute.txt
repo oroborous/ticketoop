@@ -6,3 +6,10 @@ D:\WCTC\Net Database Programming 156-101-10115-20\Lesson 05\NETDBProgramming-Les
 D:\WCTC\Net Database Programming 156-101-10115-20\Lesson 05\NETDBProgramming-Lesson-04-Assign-Example\TicketOOP\obj\Debug\TicketOOP.csproj.CoreCompileInputs.cache
 D:\WCTC\Net Database Programming 156-101-10115-20\Lesson 05\NETDBProgramming-Lesson-04-Assign-Example\TicketOOP\obj\Debug\TicketOOP.exe
 D:\WCTC\Net Database Programming 156-101-10115-20\Lesson 05\NETDBProgramming-Lesson-04-Assign-Example\TicketOOP\obj\Debug\TicketOOP.pdb
+C:\dev\ticketoop\bin\Debug\Files\tickets.txt
+C:\dev\ticketoop\bin\Debug\TicketOOP.exe.config
+C:\dev\ticketoop\bin\Debug\TicketOOP.exe
+C:\dev\ticketoop\bin\Debug\TicketOOP.pdb
+C:\dev\ticketoop\obj\Debug\TicketOOP.csprojAssemblyReference.cache
+C:\dev\ticketoop\obj\Debug\TicketOOP.exe
+C:\dev\ticketoop\obj\Debug\TicketOOP.pdb
