@@ -13,3 +13,5 @@ C:\dev\ticketoop\bin\Debug\TicketOOP.pdb
 C:\dev\ticketoop\obj\Debug\TicketOOP.csprojAssemblyReference.cache
 C:\dev\ticketoop\obj\Debug\TicketOOP.exe
 C:\dev\ticketoop\obj\Debug\TicketOOP.pdb
+D:\WCTC\Net Database Programming 156-101-22097-21\Class 6\ticketoop\obj\Debug\TicketOOP.exe
+D:\WCTC\Net Database Programming 156-101-22097-21\Class 6\ticketoop\obj\Debug\TicketOOP.pdb
